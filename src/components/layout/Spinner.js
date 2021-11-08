@@ -1,5 +1,4 @@
-import React from 'react'
-import { Fragment } from 'react/cjs/react.production.min';
+import React, {Fragment} from 'react'
 import spinner from './spinner.gif'
 
 const Spinner = () => {
